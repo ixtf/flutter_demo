@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:widget_test/bloc_demo.dart';
 import 'package:widget_test/hero_animation_page.dart';
 import 'package:widget_test/stagger_animation_page.dart';
-
-import 'bloc_demo.dart';
 
 void main() => runApp(MyApp());
 
